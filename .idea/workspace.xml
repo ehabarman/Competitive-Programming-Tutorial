@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c471818e-d011-4e50-a83b-432ec4ccf3f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,13 +35,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2706" />
+          <entry key="java" value="3676" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2706" />
+          <entry key="JAVA" value="3676" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -52,12 +49,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-587">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="518">
+              <caret line="59" column="46" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="46" />
               <folding>
+                <element signature="e#283#284#0" expanded="true" />
                 <element signature="e#334#335#0" expanded="true" />
                 <element signature="e#1468#1469#0" expanded="true" />
                 <element signature="e#1526#1527#0" expanded="true" />
@@ -68,11 +66,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1314">
-              <caret line="123" column="13" selection-start-line="123" selection-start-column="13" selection-end-line="123" selection-end-column="13" />
+            <state relative-caret-position="51">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,15 +94,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
-    <option name="y" value="94" />
+    <option name="x" value="236" />
+    <option name="y" value="498" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -170,7 +172,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536260692947" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536263165401" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Competitive-Programming" />
   </component>
   <component name="RunDashboard">
@@ -185,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LCM">
+  <component name="RunManager" selected="Application.GCD">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.factorial.Factorial" />
       <module name="Competitive Programming Tutorial" />
@@ -214,9 +216,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCD" />
         <item itemvalue="Application.LCM" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.GCD" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536258166710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6-9-2018">
+      <created>1536260710458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1536260710458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -264,12 +273,12 @@
       <window_info id="Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" weight="0.3294621" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.059902202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32911393" />
+      <window_info anchor="bottom" id="Messages" weight="0.32906976" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
@@ -304,23 +313,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="123" column="13" selection-start-line="123" selection-start-column="13" selection-end-line="123" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-587">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="518">
+          <caret line="59" column="46" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="46" />
           <folding>
+            <element signature="e#283#284#0" expanded="true" />
             <element signature="e#334#335#0" expanded="true" />
             <element signature="e#1468#1469#0" expanded="true" />
             <element signature="e#1526#1527#0" expanded="true" />
             <element signature="e#2044#2045#0" expanded="true" />
             <element signature="e#2105#2106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
         </state>
       </provider>

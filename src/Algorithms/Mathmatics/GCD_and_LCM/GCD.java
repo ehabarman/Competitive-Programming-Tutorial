@@ -1,7 +1,10 @@
 package Algorithms.Mathmatics.GCD_and_LCM;
 
-public class GCD {
+import java.math.BigInteger;
 
+public class GCD {
+    private static final BigInteger TWO = new BigInteger("2");
+    public static final BigInteger RES = BigInteger.ONE;
     public static void main(String[] args){
 
     }
@@ -16,6 +19,30 @@ public class GCD {
     }
 
     /**
+     *
+     * calculate GCD using Euclidean algorithm
+     * and return the result as BigInteger
+     * only suitable for huge numbers ( n > 10^30 )
+     * initial value of res is defined as static constant in class with name RES
+     */
+    public static BigInteger binaryEuclideanGCD(BigInteger a, BigInteger b, BigInteger res){
+        int compare = a.compareTo(b);
+        if ( compare == 0)
+            return res.multiply(a);
+        boolean first = a.mod(TWO).compareTo(BigInteger.ZERO)==0;
+        boolean second = b.mod(TWO).compareTo(BigInteger.ZERO)==0;
+        if ( first && second )
+            return binaryEuclideanGCD( a.divide(TWO),b.divide(TWO),res.multiply(TWO));
+        else if (first)
+            return binaryEuclideanGCD(a.divide(TWO),b,res);
+        else if (second)
+            return binaryEuclideanGCD(a,b.divide(TWO),res);
+        else if ( compare > 0)
+            return binaryEuclideanGCD(a.subtract(b),b,res);
+        else
+            return binaryEuclideanGCD(a,b.subtract(a),res);
+    }
+    /**
      * calculate gcd of the array (arr[n]) using euclideanGCD n times
      * it returns result as long value
      */
@@ -27,6 +54,7 @@ public class GCD {
 
         return result;
     }
+
 
     /**
      * this method is using to reduce large number in largeGCD to a small long number

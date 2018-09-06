@@ -4,6 +4,7 @@
 
 ## 1) Greatest Common Division ( GCD ):
 	-	calculate GCD using Euclidean algorithm [ euclideanGCD ]
+	-	calculate GCD using Binary Euclidean algorithm, algorithm suitable only for GCD with numbers greater than 10^30 [ binaryEuclideanGCD ]
 	-	calculate GCD of more than two (or array) numbers [ arrayGCD ]
 	-	calculate GCD of 2 numbers when one of them very large [ largeGCD ]
 	-	Product of given N fractions in reduced form ( ex: 1/3 * 2*5 * 10 /11 ....) [ fractionsProductReduce ]
@@ -16,5 +17,5 @@
 ## 2) Least common multiplier ( LCM ):
 	-	calculate LCM using EuclideanGCD [ lcm ]
 	-	calculate LCM of more than two (or array) numbers [ arrayLCM ]
-	-	LCM of factorial and its neighbors ( LCM((n-1)!, n!, (n+1)! )) []
-	-	calculate LCM of rational numbers (ex: 1/3,1/4,1/5...) [lcmOfFractions]
+	-	LCM of factorial and its neighbors ( LCM((n-1)!, n!, (n+1)! )) [ neighbourFactorialLCM ]
+	-	calculate LCM of rational numbers (ex: 1/3,1/4,1/5...) [ lcmOfFractions ]
