@@ -78,7 +78,7 @@ public class GCD {
      * @param arr     given array
      * @return      return number of operations
      */
-    static long minimumOpeationsForGCDToEqualOne(long arr[])
+    public static long minimumOpeationsForGCDToEqualOne(long arr[])
     {
         long one = 0;
         int size = arr.length;
@@ -107,7 +107,7 @@ public class GCD {
     /**
      *  this method replace matrix elements with maxGCD of (GCD(col,row)) for each element
      */
-    static void replaceMatrixElementsWithMaxGCD(long [][]mat, int row, int col)
+    public static void replaceMatrixElementsWithMaxGCD(long [][]mat, int row, int col)
     {
         long []rgcd = new long[row] ;
         long []cgcd = new long[col];
@@ -133,12 +133,30 @@ public class GCD {
      * @param y     second repetitions
      * @return  return result as string
      */
-    static String findGCDOfNRepeatitions(int n, long x, long y) {
+    public static String findGCDOfNRepeatitions(int n, long x, long y) {
         long g = euclideanGCD(x, y);
         String s ="";
         for (int i = 0; i < g; i++)
             s+=n;
         return s;
+    }
+
+
+    /**
+     * This method counts number of pairs (A <= N, B <= N) such that gcd (A , B) is B
+     * and return count number as result
+     */
+    public static int countPairsWithGCDEqualsB(int n) {
+        int k = n;
+        int imin = 1;
+        int ans = 0;
+        while (imin <= n) {
+            int imax = n / k;
+            ans += k * (imax - imin + 1);
+            imin = imax + 1;
+            k = n / imin;
+        }
+        return ans;
     }
 
 
