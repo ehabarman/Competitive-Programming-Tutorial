@@ -24,7 +24,6 @@ public class LCM {
         while (true) {
             int counter = 0;
             boolean divisible = false;
-
             for (int i = 0; i < arr.length; i++) {
                 if (arr[i] == 0) {
                     return 0;

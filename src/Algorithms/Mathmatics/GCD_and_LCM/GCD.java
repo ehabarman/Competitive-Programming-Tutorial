@@ -19,10 +19,10 @@ public class GCD {
      * calculate gcd of the array (arr[n]) using euclideanGCD n times
      * it returns result as long value
      */
-    public static long arrayGCD(long arr[], long n)
+    public static long arrayGCD(long arr[])
     {
         long result = arr[0];
-        for (int i = 1; i < n; i++)
+        for (int i = 1; i < arr.length; i++)
             result = euclideanGCD(arr[i], result);
 
         return result;
@@ -75,23 +75,23 @@ public class GCD {
     /**
      *  this method return minimum number of operations to make GCD of a given array equals one
      *
-     * @param A     given array
-     * @param N     size of array
+     * @param arr     given array
      * @return      return number of operations
      */
-    static long minimumOpeationsForGCDToEqualOne(long A[], long N)
+    static long minimumOpeationsForGCDToEqualOne(long arr[])
     {
         long one = 0;
-        for (int i = 0; i < N; i++)
-            if (A[i] == 1)
+        int size = arr.length;
+        for (int i = 0; i < size; i++)
+            if (arr[i] == 1)
                 one++;
         if (one != 0)
-            return N - one;
+            return size - one;
         int minimum = Integer.MAX_VALUE;
-        for (int i = 0; i < N; i++) {
-            long g = A[i];
-            for (int j = i + 1; j < N; j++) {
-                g = euclideanGCD(A[j], g);
+        for (int i = 0; i < size; i++) {
+            long g = arr[i];
+            for (int j = i + 1; j < size; j++) {
+                g = euclideanGCD(arr[j], g);
                 if (g == 1) {
                     minimum = Math.min(minimum, j - i);
                     break;
@@ -101,14 +101,11 @@ public class GCD {
         if (minimum == Integer.MAX_VALUE)
             return -1;
         else
-            return N + minimum - 1;
+            return size + minimum - 1;
     }
 
     /**
-     *
-     * @param mat
-     * @param row
-     * @param col
+     *  this method replace matrix elements with maxGCD of (GCD(col,row)) for each element
      */
     static void replaceMatrixElementsWithMaxGCD(long [][]mat, int row, int col)
     {
