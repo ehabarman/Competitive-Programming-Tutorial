@@ -72,4 +72,20 @@ public class LCM {
     {
         return arrayLCM(num)+ "/" +GCD.arrayGCD(den) ;
     }
+
+    /**
+     * This method return true boolean value if LCM | k and false if not
+     * k must be prime number or result might be wrong
+     * If any array element is divisible by k, then LCM of whole array must also be divisible.
+     */
+    public static boolean isLCMDivisibleByK( int arr[], int k)
+    {
+        for (int i = 0; i < arr.length; i++)
+            if (arr[i] % k == 0)
+                return true;
+        return false;
+    }
+
+
+
 }

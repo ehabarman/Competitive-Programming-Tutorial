@@ -19,3 +19,5 @@
 	-	calculate LCM of more than two (or array) numbers [ arrayLCM ]
 	-	LCM of factorial and its neighbors ( LCM((n-1)!, n!, (n+1)! )) [ neighbourFactorialLCM ]
 	-	calculate LCM of rational numbers (ex: 1/3,1/4,1/5...) [ lcmOfFractions ]
+	-	Check if LCM of array elements is divisible by a prime number []
+	-	Check if LCM of array elements is divisible by non-prime number []

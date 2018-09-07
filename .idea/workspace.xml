@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c471818e-d011-4e50-a83b-432ec4ccf3f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,25 +27,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="9" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="9" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3676" />
+          <entry key="java" value="5975" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3676" />
+          <entry key="JAVA" value="5975" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -52,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="59" column="46" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="46" />
+            <state relative-caret-position="399">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
               <folding>
                 <element signature="e#283#284#0" expanded="true" />
                 <element signature="e#334#335#0" expanded="true" />
@@ -66,14 +70,47 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1180">
+              <caret line="76" column="50" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1625#1634#0" expanded="true" />
+                <element signature="method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
+                <element signature="method#getPrimesToTest#0;class#PrimeTest#0" />
+                <element signature="method#try_composite#0;class#PrimeTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="484">
+              <caret line="217" lean-forward="true" selection-start-line="217" selection-end-line="217" />
               <folding>
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
+                <element signature="docComment;method#euclideanGCD#0;class#GCD#0" />
+                <element signature="docComment;method#binaryEuclideanGCD#0;class#GCD#0" />
+                <element signature="method#binaryEuclideanGCD#0;class#GCD#0" />
+                <element signature="docComment;method#arrayGCD#0;class#GCD#0" />
+                <element signature="method#arrayGCD#0;class#GCD#0" />
+                <element signature="docComment;method#reduceB#0;class#GCD#0" />
+                <element signature="method#reduceB#0;class#GCD#0" />
+                <element signature="docComment;method#largeGCD#0;class#GCD#0" />
+                <element signature="method#largeGCD#0;class#GCD#0" />
+                <element signature="docComment;method#fractionsProductReduce#0;class#GCD#0" />
+                <element signature="method#fractionsProductReduce#0;class#GCD#0" />
+                <element signature="docComment;method#minimumOpeationsForGCDToEqualOne#0;class#GCD#0" />
+                <element signature="method#minimumOpeationsForGCDToEqualOne#0;class#GCD#0" />
+                <element signature="docComment;method#replaceMatrixElementsWithMaxGCD#0;class#GCD#0" />
+                <element signature="method#replaceMatrixElementsWithMaxGCD#0;class#GCD#0" />
+                <element signature="docComment;method#findGCDOfNRepeatitions#0;class#GCD#0" />
+                <element signature="method#findGCDOfNRepeatitions#0;class#GCD#0" />
+                <element signature="docComment;method#countPairsWithGCDEqualsB#0;class#GCD#0" />
+                <element signature="method#countPairsWithGCDEqualsB#0;class#GCD#0" />
               </folding>
             </state>
           </provider>
@@ -95,14 +132,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="236" />
-    <option name="y" value="498" />
+    <option name="x" value="559" />
+    <option name="y" value="65" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -152,7 +190,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Mathmatics" type="462c0819:PsiDirectoryNode" />
-              <item name="factorial" type="462c0819:PsiDirectoryNode" />
+              <item name="GCD_and_LCM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
@@ -160,7 +198,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Mathmatics" type="462c0819:PsiDirectoryNode" />
-              <item name="GCD_and_LCM" type="462c0819:PsiDirectoryNode" />
+              <item name="Primes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,7 +210,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536263165401" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536306176672" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Competitive-Programming" />
   </component>
   <component name="RunDashboard">
@@ -187,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GCD">
+  <component name="RunManager" selected="Application.PrimeTest">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.factorial.Factorial" />
       <module name="Competitive Programming Tutorial" />
@@ -209,13 +247,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.Primes.PrimeTest" />
+      <module name="Competitive Programming Tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.LCM" />
       <item itemvalue="Application.GCD" />
       <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.PrimeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeTest" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.LCM" />
         <item itemvalue="Application.Factorial" />
@@ -261,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536260710458</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6-9-2018">
+      <created>1536263172932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1536263172932</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -273,15 +327,15 @@
       <window_info id="Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" weight="0.3294621" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.059902202" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1797066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50061125" side_tool="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Messages" weight="0.32906976" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938875" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -313,10 +367,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16014">
+          <caret line="984" column="2" selection-start-line="984" selection-start-column="1" selection-end-line="984" selection-end-column="2" />
+          <caret line="983" column="2" selection-start-line="983" selection-start-column="1" selection-end-line="983" selection-end-column="2" />
+          <caret line="981" column="2" selection-start-line="981" selection-start-column="1" selection-end-line="981" selection-end-column="2" />
+          <folding>
+            <element signature="e#41846#42067#0" />
+            <element signature="e#42224#42297#0" />
+            <element signature="e#42501#42714#0" />
+            <element signature="initializer##0;class#BigInteger#0" />
+            <element signature="e#43800#43875#0" />
+            <element signature="e#43954#44028#0" />
+            <element signature="e#44087#44151#0" />
+            <element signature="e#44211#44274#0" />
+            <element signature="e#44344#44418#0" />
+            <element signature="e#44508#44682#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="59" column="46" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="46" />
+        <state relative-caret-position="399">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
           <folding>
             <element signature="e#283#284#0" expanded="true" />
             <element signature="e#334#335#0" expanded="true" />
@@ -328,13 +403,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="76" column="50" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1625#1634#0" expanded="true" />
+            <element signature="method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
+            <element signature="method#getPrimesToTest#0;class#PrimeTest#0" />
+            <element signature="method#try_composite#0;class#PrimeTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="484">
+          <caret line="217" lean-forward="true" selection-start-line="217" selection-end-line="217" />
           <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
+            <element signature="docComment;method#euclideanGCD#0;class#GCD#0" />
+            <element signature="docComment;method#binaryEuclideanGCD#0;class#GCD#0" />
+            <element signature="method#binaryEuclideanGCD#0;class#GCD#0" />
+            <element signature="docComment;method#arrayGCD#0;class#GCD#0" />
+            <element signature="method#arrayGCD#0;class#GCD#0" />
+            <element signature="docComment;method#reduceB#0;class#GCD#0" />
+            <element signature="method#reduceB#0;class#GCD#0" />
+            <element signature="docComment;method#largeGCD#0;class#GCD#0" />
+            <element signature="method#largeGCD#0;class#GCD#0" />
+            <element signature="docComment;method#fractionsProductReduce#0;class#GCD#0" />
+            <element signature="method#fractionsProductReduce#0;class#GCD#0" />
+            <element signature="docComment;method#minimumOpeationsForGCDToEqualOne#0;class#GCD#0" />
+            <element signature="method#minimumOpeationsForGCDToEqualOne#0;class#GCD#0" />
+            <element signature="docComment;method#replaceMatrixElementsWithMaxGCD#0;class#GCD#0" />
+            <element signature="method#replaceMatrixElementsWithMaxGCD#0;class#GCD#0" />
+            <element signature="docComment;method#findGCDOfNRepeatitions#0;class#GCD#0" />
+            <element signature="method#findGCDOfNRepeatitions#0;class#GCD#0" />
+            <element signature="docComment;method#countPairsWithGCDEqualsB#0;class#GCD#0" />
+            <element signature="method#countPairsWithGCDEqualsB#0;class#GCD#0" />
           </folding>
         </state>
       </provider>

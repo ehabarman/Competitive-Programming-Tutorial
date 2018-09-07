@@ -8,15 +8,17 @@ public class GCD {
     public static void main(String[] args){
 
     }
+
+
     /**
      * calculate GCD using Euclidean algorithm
      * and return the result as long value
      */
-
     public static long euclideanGCD(long a, long b)
     {
         return a == 0 ? b : euclideanGCD(b % a, a);
     }
+
 
     /**
      *
@@ -42,6 +44,8 @@ public class GCD {
         else
             return binaryEuclideanGCD(a,b.subtract(a),res);
     }
+
+
     /**
      * calculate gcd of the array (arr[n]) using euclideanGCD n times
      * it returns result as long value
@@ -71,6 +75,7 @@ public class GCD {
         return result;
     }
 
+
     /**
      *  this method return GCD(a,b) when b very large (10^12 <= b < 10^250)
      */
@@ -79,6 +84,7 @@ public class GCD {
         long num = reduceB(a, b);
         return euclideanGCD(num, a);
     }
+
 
     /**
      *  this method is to calculate result of multiplying fractions n/d
@@ -99,6 +105,7 @@ public class GCD {
 
         System.out.println(new_num + "/" +new_den);
     }
+
 
     /**
      *  this method return minimum number of operations to make GCD of a given array equals one
@@ -131,6 +138,7 @@ public class GCD {
         else
             return size + minimum - 1;
     }
+
 
     /**
      *  this method replace matrix elements with maxGCD of (GCD(col,row)) for each element
@@ -188,4 +196,22 @@ public class GCD {
     }
 
 
+    /**
+     * this method is given N and M
+     * task is to find whether numbers 1 to N can be divided into two sets such that the absolute difference between the
+     * sum of two sets is M and gcd of the sum of two sets is 1
+     * return true if splittable else false
+     */
+    public static boolean isSplittable(int n, int m)
+    {
+        int totalSum = (n * (n + 1)) / 2;
+        int sum1 = (totalSum + m) / 2;
+        int sum2 = totalSum - sum1;
+        if (totalSum < m)
+            return false;
+        if (sum1 + sum2 == totalSum &&
+                sum1 - sum2 == m)
+            return (euclideanGCD(sum1, sum2) == 1);
+        return false;
+    }
 }
