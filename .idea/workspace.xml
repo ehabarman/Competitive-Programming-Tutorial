@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c471818e-d011-4e50-a83b-432ec4ccf3f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,21 +35,21 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5975" />
-          <entry key="txt" value="12" />
+          <entry key="java" value="6123" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5975" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="JAVA" value="6123" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
@@ -73,24 +69,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1180">
-              <caret line="76" column="50" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="50" />
+            <state relative-caret-position="-112">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="docComment;method#primeSieveArray#0;class#PrimeTest#0" />
+                <element signature="method#primeSieveArray#0;class#PrimeTest#0" />
+                <element signature="docComment;method#primeSieveList#0;class#PrimeTest#0" />
+                <element signature="method#primeSieveList#0;class#PrimeTest#0" />
                 <element signature="e#1625#1634#0" expanded="true" />
+                <element signature="docComment;method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
                 <element signature="method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
+                <element signature="docComment;method#getPrimesToTest#0;class#PrimeTest#0" />
                 <element signature="method#getPrimesToTest#0;class#PrimeTest#0" />
+                <element signature="docComment;method#try_composite#0;class#PrimeTest#0" />
                 <element signature="method#try_composite#0;class#PrimeTest#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="217" lean-forward="true" selection-start-line="217" selection-end-line="217" />
+            <state relative-caret-position="1020">
+              <caret line="216" column="1" lean-forward="true" selection-start-line="216" selection-start-column="1" selection-end-line="216" selection-end-column="1" />
               <folding>
                 <element signature="docComment;method#euclideanGCD#0;class#GCD#0" />
                 <element signature="docComment;method#binaryEuclideanGCD#0;class#GCD#0" />
@@ -111,6 +114,8 @@
                 <element signature="method#findGCDOfNRepeatitions#0;class#GCD#0" />
                 <element signature="docComment;method#countPairsWithGCDEqualsB#0;class#GCD#0" />
                 <element signature="method#countPairsWithGCDEqualsB#0;class#GCD#0" />
+                <element signature="docComment;method#isSplittable#0;class#GCD#0" />
+                <element signature="method#isSplittable#0;class#GCD#0" />
               </folding>
             </state>
           </provider>
@@ -132,9 +137,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java" />
       </list>
     </option>
   </component>
@@ -210,7 +215,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536306176672" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536316037773" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Competitive-Programming" />
   </component>
   <component name="RunDashboard">
@@ -315,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536263172932</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="7-9-2018">
+      <created>1536306191702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536306191702</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -354,7 +366,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6-9-2018" />
-    <option name="LAST_COMMIT_MESSAGE" value="6-9-2018" />
+    <MESSAGE value="7-9-2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="7-9-2018" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/README.md">
@@ -388,30 +401,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-          <folding>
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#1468#1469#0" expanded="true" />
-            <element signature="e#1526#1527#0" expanded="true" />
-            <element signature="e#2044#2045#0" expanded="true" />
-            <element signature="e#2105#2106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1180">
-          <caret line="76" column="50" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="50" />
+        <state relative-caret-position="-112">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;method#primeSieveArray#0;class#PrimeTest#0" />
+            <element signature="method#primeSieveArray#0;class#PrimeTest#0" />
+            <element signature="docComment;method#primeSieveList#0;class#PrimeTest#0" />
+            <element signature="method#primeSieveList#0;class#PrimeTest#0" />
             <element signature="e#1625#1634#0" expanded="true" />
+            <element signature="docComment;method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
             <element signature="method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
+            <element signature="docComment;method#getPrimesToTest#0;class#PrimeTest#0" />
             <element signature="method#getPrimesToTest#0;class#PrimeTest#0" />
+            <element signature="docComment;method#try_composite#0;class#PrimeTest#0" />
             <element signature="method#try_composite#0;class#PrimeTest#0" />
           </folding>
         </state>
@@ -419,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="217" lean-forward="true" selection-start-line="217" selection-end-line="217" />
+        <state relative-caret-position="1020">
+          <caret line="216" column="1" lean-forward="true" selection-start-line="216" selection-start-column="1" selection-end-line="216" selection-end-column="1" />
           <folding>
             <element signature="docComment;method#euclideanGCD#0;class#GCD#0" />
             <element signature="docComment;method#binaryEuclideanGCD#0;class#GCD#0" />
@@ -441,6 +446,23 @@
             <element signature="method#findGCDOfNRepeatitions#0;class#GCD#0" />
             <element signature="docComment;method#countPairsWithGCDEqualsB#0;class#GCD#0" />
             <element signature="method#countPairsWithGCDEqualsB#0;class#GCD#0" />
+            <element signature="docComment;method#isSplittable#0;class#GCD#0" />
+            <element signature="method#isSplittable#0;class#GCD#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+            <element signature="e#2044#2045#0" expanded="true" />
+            <element signature="e#2105#2106#0" expanded="true" />
           </folding>
         </state>
       </provider>

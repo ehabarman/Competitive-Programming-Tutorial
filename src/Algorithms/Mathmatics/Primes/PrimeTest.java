@@ -1,6 +1,5 @@
 package Algorithms.Mathmatics.Primes;
 
-import java.lang.reflect.Array;
 import java.math.BigInteger;
 import java.util.ArrayList;
 
@@ -18,6 +17,7 @@ public class PrimeTest {
      * 0 and 1 considered non-primes
      */
     public static boolean isPrime(int n){
+
         if ( n == 0 || n == 1)
             return false;
         long sqrtN = (long) Math.sqrt(n);
@@ -26,6 +26,7 @@ public class PrimeTest {
                 return false;
         return true;
     }
+
 
     /**
      *  This method return boolean array of size n+1
@@ -47,6 +48,7 @@ public class PrimeTest {
         }
         return isPrime;
     }
+
 
     /**
      * this method uses Sieve prime Algorithm to get only prime numbers in a list
@@ -102,6 +104,7 @@ public class PrimeTest {
         return true;
     }
 
+
     /**
      *  this method array of primes according to value of n for composite test
      */
@@ -123,6 +126,7 @@ public class PrimeTest {
         }
         return new int[]{2, 3};
     }
+
 
     /**
      *  this method is used in MillerRabinPrimalityTest to try compsite
