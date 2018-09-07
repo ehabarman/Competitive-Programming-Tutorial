@@ -5,3 +5,9 @@
 	- check if a given large number is prime [ MillerRabinPrimalityTest ]
 	- get all prime numbers under N as list [primeSieveList]
 	- get an array that shows which number is prime and which is not under the value N [primeSieveArray]
+
+
+## 2) Factorization:
+	- single time factorization [ primeFactors ]
+	- queries factorization (read comments in code) [ queryFactorization, seive ]
+	-

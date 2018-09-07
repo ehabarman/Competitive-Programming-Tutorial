@@ -1,14 +1,18 @@
-package Algorithms.Mathmatics.Primes;
+package Algorithms.Mathmatics.PrimesAndFactorization;
 
 import java.math.BigInteger;
 import java.util.ArrayList;
+
+/**
+ * @author ehab arman
+ * @date 7-9-2018
+ */
 
 public class PrimeTest {
 
     public static void main(String[] args){
 
-        ArrayList<Integer> list = primeSieveList(100);
-        System.out.println(list.toString());
+
     }
 
     /**
@@ -16,17 +20,29 @@ public class PrimeTest {
      * This method is suitable when number is small and you need to do test only for few numbers
      * 0 and 1 considered non-primes
      */
-    public static boolean isPrime(int n){
+    public static boolean isPrime(long n){
+        {
+            if (n < 31)
+                if ( n == 2 || n == 3 || n == 5 || n == 7 || n == 11 ||
+                        n == 13 || n == 17 || n == 19 || n == 23 || n == 29)
+                    return true;
+                else return false;
 
-        if ( n == 0 || n == 1)
-            return false;
-        long sqrtN = (long) Math.sqrt(n);
-        for (long i =2 ; i<= sqrtN;i++)
-            if( n%i == 0)
+            if ( n%2 == 0 || n%3 == 0 || n%5 == 0 || n%7 == 0 || n%11 == 0 ||
+                    n%13 == 0 || n%17 == 0 || n%19 == 0 || n%23 == 0 || n%29 == 0)
                 return false;
-        return true;
-    }
 
+
+            long sqrtN = (long) Math.sqrt(n);
+            for (long i = 31 ; i<=sqrtN ;i+=30)
+            {
+                if ( n%i == 0 || n%(i+6) == 0 || n%(i+10) == 0 || n%(i+12) == 0 ||
+                        n%(i+16) == 0 || n%(i+18) == 0 || n%(i+22) == 0 || n%(i+28) == 0)
+                    return false;
+            }
+            return true;
+        }
+    }
 
     /**
      *  This method return boolean array of size n+1

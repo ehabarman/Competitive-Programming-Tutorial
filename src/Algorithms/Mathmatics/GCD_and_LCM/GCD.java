@@ -2,6 +2,11 @@ package Algorithms.Mathmatics.GCD_and_LCM;
 
 import java.math.BigInteger;
 
+/**
+ * @author ehab arman
+ * @date 7-9-2018
+ */
+
 public class GCD {
     private static final BigInteger TWO = new BigInteger("2");
     public static final BigInteger RES = BigInteger.ONE;

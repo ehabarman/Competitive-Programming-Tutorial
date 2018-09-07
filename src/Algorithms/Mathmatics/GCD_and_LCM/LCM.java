@@ -1,6 +1,11 @@
 package Algorithms.Mathmatics.GCD_and_LCM;
+
 import Algorithms.Mathmatics.factorial.*;
 
+/**
+ * @author ehab arman
+ * @date 7-9-2018
+ */
 public class LCM {
 
     public static void main(String[] args){
