@@ -10,4 +10,3 @@
 ## 2) Factorization:
 	- single time factorization [ primeFactors ]
 	- queries factorization (read comments in code) [ queryFactorization, seive ]
-	-

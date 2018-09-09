@@ -18,10 +18,10 @@ public class Factorization {
      * More than 10^100: General Number Field Sieve
      *
      */
-    public static int MAXN = 1000001; // MAXN = maximum number to be factorized + 1
-    public static int spf[] = new int[MAXN]; // smallest prime factor of x is spf[x]
+
 
     public static void main(String[] args){
+
 
     }
 
@@ -53,15 +53,13 @@ public class Factorization {
 
 
     /**
-     *  this method require:
-     *  1-  initialize MAXN and spf array
-     *  2- call sieve method
+     *  this method requires to get spf using seive method before starting queries
      *
      *  factorization for each query equals logn
      *
      *  return list contains factors of the given query
      */
-    public static ArrayList<Integer> queryFactorization(int x)
+    public static ArrayList<Integer> queryFactorization(int x,int[] spf)
     {
         ArrayList<Integer> list = new ArrayList<>();
         while (x != 1)
@@ -77,10 +75,11 @@ public class Factorization {
      *  this method calculate SPF (Smallest Prime Factor) for every number
      *  up to MAXN ( equals highest number to be factorized + 1)
      *  Time Complexity : O(nloglogn)
-     *  must be called before using [ queryFactorization ] and initialize MAXN and spf array as static values
+     *  the spf table should be passed as parameter to it can be modified
      */
-    public static void sieve()
+    public static void sieve(int[] spf)
     {
+        int MAXN = spf.length;
         spf[1] = 1;
         for (int i=2; i<MAXN; i++)
             spf[i] = i;

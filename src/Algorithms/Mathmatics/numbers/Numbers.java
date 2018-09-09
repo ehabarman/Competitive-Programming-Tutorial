@@ -69,7 +69,7 @@ public class Numbers {
      */
     public static long getCatalan(long n)
     {
-        long c = Combinations.binomialCoeff(2*n, n);
+        long c = Combinations.nCrBinomialCoeff(2*n, n);
         return c/(n+1);
     }
 

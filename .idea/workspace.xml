@@ -1,114 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c471818e-d011-4e50-a83b-432ec4ccf3f0" name="Default Changelist" comment="">
+    <list default="true" id="e30d25fc-cb09-42b4-879e-10b6dfcc97f0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Competitive-Programming-Tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/TotientFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/Modular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/Factorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/Factorization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/PrimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/PrimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1782757071">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="28" />
-          <entry key="md" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="28" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="10274" />
-          <entry key="txt" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="10274" />
-          <entry key="PLAIN_TEXT" value="13" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/Numbers.java">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Modular.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/Modular.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="137" column="1" lean-forward="true" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="1" />
+            <state relative-caret-position="187">
+              <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="docComment;class#Numbers#0" />
-                <element signature="method#main#0;class#Numbers#0" />
-                <element signature="docComment;method#politeness#0;class#Numbers#0" />
-                <element signature="docComment;method#isHoax#0;class#Numbers#0" />
-                <element signature="method#isHoax#0;class#Numbers#0" />
-                <element signature="docComment;method#getCatalan#0;class#Numbers#0" />
-                <element signature="method#getCatalan#0;class#Numbers#0" />
-                <element signature="method#isSmith#0;class#Numbers#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/PrimeTest.java">
+      <file leaf-file-name="TotientFunction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/TotientFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="306">
+              <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="docComment;method#isPrime#0;class#PrimeTest#0" />
-                <element signature="docComment;method#primeSieveArray#0;class#PrimeTest#0" />
-                <element signature="docComment;method#primeSieveList#0;class#PrimeTest#0" />
-                <element signature="method#primeSieveList#0;class#PrimeTest#0" />
-                <element signature="e#2331#2340#0" expanded="true" />
-                <element signature="docComment;method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
-                <element signature="method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
-                <element signature="docComment;method#getPrimesToTest#0;class#PrimeTest#0" />
-                <element signature="method#getPrimesToTest#0;class#PrimeTest#0" />
-                <element signature="docComment;method#try_composite#0;class#PrimeTest#0" />
-                <element signature="method#try_composite#0;class#PrimeTest#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/Factorization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="148" column="5" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;field#MAXN#0;class#Factorization#0" />
-                <element signature="method#main#0;class#Factorization#0" />
-                <element signature="docComment;method#primeFactors#0;class#Factorization#0" />
-                <element signature="method#primeFactors#0;class#Factorization#0" />
-                <element signature="docComment;method#queryFactorization#0;class#Factorization#0" />
-                <element signature="method#queryFactorization#0;class#Factorization#0" />
-                <element signature="docComment;method#sieve#0;class#Factorization#0" />
-                <element signature="method#countOddPrimeFactors#0;class#Factorization#0" />
+                <element signature="method#main#0;class#TotientFunction#0" />
+                <element signature="docComment;method#computeTotient#0;class#TotientFunction#0" />
+                <element signature="method#computeTotient#0;class#TotientFunction#0" />
               </folding>
             </state>
           </provider>
@@ -129,100 +85,91 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/Primes/PrimeTest.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/catalanDP.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/Factorization.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/PrimeTest.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/README.md" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_sum_mul_sub_div_mod/README.md" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/README.md" />
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/Numbers.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/README.md" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/Power.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/Factorization.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/TotientFunction.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/README.md" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/Modular.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="880" />
-    <option name="y" value="150" />
-    <option name="width" value="1400" />
-    <option name="height" value="970" />
+    <option name="x" value="15" />
+    <option name="y" value="29" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive Programming Tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="Competitive-Programming-Tutorial" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Competitive-Programming-Tutorial" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
-              <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive Programming Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Competitive-Programming-Tutorial" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Competitive-Programming-Tutorial" type="616d4139:PackageViewModuleNode" />
+              <item name="Algorithms" type="1f31426a:PackageElementNode" />
             </path>
             <path>
-              <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive Programming Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Competitive-Programming-Tutorial" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Competitive-Programming-Tutorial" type="616d4139:PackageViewModuleNode" />
+              <item name="Algorithms" type="1f31426a:PackageElementNode" />
+              <item name="Dynamic" type="1f31426a:PackageElementNode" />
             </path>
             <path>
-              <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive Programming Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic" type="462c0819:PsiDirectoryNode" />
+              <item name="Competitive-Programming-Tutorial" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Competitive-Programming-Tutorial" type="616d4139:PackageViewModuleNode" />
+              <item name="Algorithms" type="1f31426a:PackageElementNode" />
+              <item name="Mathmatics" type="1f31426a:PackageElementNode" />
             </path>
             <path>
-              <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive Programming Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Mathmatics" type="462c0819:PsiDirectoryNode" />
+              <item name="Competitive-Programming-Tutorial" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Competitive-Programming-Tutorial" type="616d4139:PackageViewModuleNode" />
+              <item name="Algorithms" type="1f31426a:PackageElementNode" />
+              <item name="Mathmatics" type="1f31426a:PackageElementNode" />
+              <item name="CombinationsAndPermutations" type="1f31426a:PackageElementNode" />
             </path>
             <path>
-              <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive Programming Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Mathmatics" type="462c0819:PsiDirectoryNode" />
-              <item name="CombinationsAndPermutations" type="462c0819:PsiDirectoryNode" />
+              <item name="Competitive-Programming-Tutorial" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Competitive-Programming-Tutorial" type="616d4139:PackageViewModuleNode" />
+              <item name="Algorithms" type="1f31426a:PackageElementNode" />
+              <item name="Mathmatics" type="1f31426a:PackageElementNode" />
+              <item name="numbers" type="1f31426a:PackageElementNode" />
             </path>
             <path>
-              <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive Programming Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Mathmatics" type="462c0819:PsiDirectoryNode" />
-              <item name="numbers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Competitive Programming Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Competitive Programming Tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Mathmatics" type="462c0819:PsiDirectoryNode" />
-              <item name="PrimesAndFactorization" type="462c0819:PsiDirectoryNode" />
+              <item name="Competitive-Programming-Tutorial" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Competitive-Programming-Tutorial" type="616d4139:PackageViewModuleNode" />
+              <item name="Algorithms" type="1f31426a:PackageElementNode" />
+              <item name="Mathmatics" type="1f31426a:PackageElementNode" />
+              <item name="pow_add_mul_sub_div_mod" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536465542606" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Competitive-Programming" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,56 +183,104 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Numbers">
+  <component name="RunManager" selected="Application.Modular">
+    <configuration name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.CombinationsAndPermutations.Combinations" />
+      <module name="Competitive-Programming-Tutorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.Mathmatics.CombinationsAndPermutations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.factorial.Factorial" />
-      <module name="Competitive Programming Tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <module name="Competitive-Programming-Tutorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.Mathmatics.factorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Factorization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.PrimesAndFactorization.Factorization" />
-      <module name="Competitive Programming Tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <module name="Competitive-Programming-Tutorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.Mathmatics.PrimesAndFactorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.numbers.Numbers" />
-      <module name="Competitive Programming Tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Modular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.pow_add_mul_sub_div_mod.Modular" />
+      <module name="Competitive-Programming-Tutorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.Mathmatics.pow_add_mul_sub_div_mod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="PrimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.Mathmatics.PrimesAndFactorization.PrimeTest" />
-      <module name="Competitive Programming Tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="catalanDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.Dynamic.catalanDP" />
-      <module name="Competitive Programming Tutorial" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Factorial" />
-      <item itemvalue="Application.PrimeTest" />
+      <item itemvalue="Application.Combinations" />
+      <item itemvalue="Application.Modular" />
       <item itemvalue="Application.Factorization" />
-      <item itemvalue="Application.catalanDP" />
-      <item itemvalue="Application.Numbers" />
+      <item itemvalue="Application.Factorial" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.PrimeTest" />
-        <item itemvalue="Application.catalanDP" />
+        <item itemvalue="Application.Modular" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Factorization" />
+        <item itemvalue="Application.Combinations" />
       </list>
     </recent_temporary>
   </component>
@@ -294,247 +289,195 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c471818e-d011-4e50-a83b-432ec4ccf3f0" name="Default Changelist" comment="" />
-      <created>1536251627061</created>
+      <changelist id="e30d25fc-cb09-42b4-879e-10b6dfcc97f0" name="Default" comment="" />
+      <created>1536474243733</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536251627061</updated>
+      <updated>1536474243733</updated>
     </task>
-    <task id="LOCAL-00001" summary="6-9-2018">
-      <created>1536254695679</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1536254695679</updated>
-    </task>
-    <task id="LOCAL-00002" summary="6-9-2018">
-      <created>1536257727600</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1536257727600</updated>
-    </task>
-    <task id="LOCAL-00003" summary="6-9-2018">
-      <created>1536258166710</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1536258166710</updated>
-    </task>
-    <task id="LOCAL-00004" summary="6-9-2018">
-      <created>1536260710458</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1536260710458</updated>
-    </task>
-    <task id="LOCAL-00005" summary="6-9-2018">
-      <created>1536263172932</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1536263172932</updated>
-    </task>
-    <task id="LOCAL-00006" summary="7-9-2018">
-      <created>1536306191702</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1536306191702</updated>
-    </task>
-    <task id="LOCAL-00007" summary="7-9-2018">
-      <created>1536316049673</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1536316049673</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22188264" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Learn" order="4" weight="0.3294621" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49938875" visible="true" weight="0.35097814" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50061125" side_tool="true" weight="0.32911393" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32906976" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" weight="0.32913387" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="6-9-2018" />
-    <MESSAGE value="7-9-2018" />
-    <option name="LAST_COMMIT_MESSAGE" value="7-9-2018" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/README.md">
+    <entry file="file://$PROJECT_DIR$/Competitive-Programming-Tutorial.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16014">
-          <caret line="984" column="2" selection-start-line="984" selection-start-column="1" selection-end-line="984" selection-end-column="2" />
-          <caret line="983" column="2" selection-start-line="983" selection-start-column="1" selection-end-line="983" selection-end-column="2" />
-          <caret line="981" column="2" selection-start-line="981" selection-start-column="1" selection-end-line="981" selection-end-column="2" />
-          <folding>
-            <element signature="e#41846#42067#0" />
-            <element signature="e#42224#42297#0" />
-            <element signature="e#42501#42714#0" />
-            <element signature="initializer##0;class#BigInteger#0" />
-            <element signature="e#43800#43875#0" />
-            <element signature="e#43954#44028#0" />
-            <element signature="e#44087#44151#0" />
-            <element signature="e#44211#44274#0" />
-            <element signature="e#44344#44418#0" />
-            <element signature="e#44508#44682#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/GCD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="107" column="23" lean-forward="true" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
-          <folding>
-            <element signature="docComment;method#euclideanGCD#0;class#GCD#0" />
-            <element signature="docComment;method#arrayGCD#0;class#GCD#0" />
-            <element signature="method#arrayGCD#0;class#GCD#0" />
-            <element signature="docComment;method#reduceB#0;class#GCD#0" />
-            <element signature="method#reduceB#0;class#GCD#0" />
-            <element signature="docComment;method#largeGCD#0;class#GCD#0" />
-            <element signature="method#largeGCD#0;class#GCD#0" />
-            <element signature="docComment;method#fractionsProductReduce#0;class#GCD#0" />
-            <element signature="docComment;method#minimumOpeationsForGCDToEqualOne#0;class#GCD#0" />
-            <element signature="method#minimumOpeationsForGCDToEqualOne#0;class#GCD#0" />
-            <element signature="docComment;method#replaceMatrixElementsWithMaxGCD#0;class#GCD#0" />
-            <element signature="method#replaceMatrixElementsWithMaxGCD#0;class#GCD#0" />
-            <element signature="docComment;method#findGCDOfNRepeatitions#0;class#GCD#0" />
-            <element signature="method#findGCDOfNRepeatitions#0;class#GCD#0" />
-            <element signature="docComment;method#countPairsWithGCDEqualsB#0;class#GCD#0" />
-            <element signature="method#countPairsWithGCDEqualsB#0;class#GCD#0" />
-            <element signature="docComment;method#isSplittable#0;class#GCD#0" />
-            <element signature="method#isSplittable#0;class#GCD#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1331#1340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/GCD_and_LCM/LCM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Competitive Programming Tutorial.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/catalanDP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/Factorization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="148" column="5" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;field#MAXN#0;class#Factorization#0" />
-            <element signature="method#main#0;class#Factorization#0" />
-            <element signature="docComment;method#primeFactors#0;class#Factorization#0" />
-            <element signature="method#primeFactors#0;class#Factorization#0" />
-            <element signature="docComment;method#queryFactorization#0;class#Factorization#0" />
-            <element signature="method#queryFactorization#0;class#Factorization#0" />
-            <element signature="docComment;method#sieve#0;class#Factorization#0" />
-            <element signature="method#countOddPrimeFactors#0;class#Factorization#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/PrimeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#isPrime#0;class#PrimeTest#0" />
-            <element signature="docComment;method#primeSieveArray#0;class#PrimeTest#0" />
-            <element signature="docComment;method#primeSieveList#0;class#PrimeTest#0" />
-            <element signature="method#primeSieveList#0;class#PrimeTest#0" />
-            <element signature="e#2331#2340#0" expanded="true" />
-            <element signature="docComment;method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
-            <element signature="method#MillerRabinPrimalityTest#0;class#PrimeTest#0" />
-            <element signature="docComment;method#getPrimesToTest#0;class#PrimeTest#0" />
-            <element signature="method#getPrimesToTest#0;class#PrimeTest#0" />
-            <element signature="docComment;method#try_composite#0;class#PrimeTest#0" />
-            <element signature="method#try_composite#0;class#PrimeTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="579" column="54" lean-forward="true" selection-start-line="579" selection-start-column="54" selection-end-line="579" selection-end-column="54" />
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="137" column="1" lean-forward="true" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="1" />
+        <state relative-caret-position="608">
+          <caret line="66" column="49" lean-forward="true" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="77" lean-forward="true" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="34" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/PrimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="72" column="51" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="81" selection-start-line="11" selection-start-column="81" selection-end-line="11" selection-end-column="81" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/Factorization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="77" column="73" selection-start-line="77" selection-start-column="73" selection-end-line="77" selection-end-column="73" />
+          <folding>
+            <element signature="docComment;method#primeFactors#0;class#Factorization#0" />
+            <element signature="method#primeFactors#0;class#Factorization#0" />
+            <element signature="docComment;method#countOddPrimeFactors#0;class#Factorization#0" />
+            <element signature="method#countOddPrimeFactors#0;class#Factorization#0" />
+            <element signature="docComment;method#distinctPrimeFactors#0;class#Factorization#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/numbers/TotientFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="docComment;class#Numbers#0" />
-            <element signature="method#main#0;class#Numbers#0" />
-            <element signature="docComment;method#politeness#0;class#Numbers#0" />
-            <element signature="docComment;method#isHoax#0;class#Numbers#0" />
-            <element signature="method#isHoax#0;class#Numbers#0" />
-            <element signature="docComment;method#getCatalan#0;class#Numbers#0" />
-            <element signature="method#getCatalan#0;class#Numbers#0" />
-            <element signature="method#isSmith#0;class#Numbers#0" />
+            <element signature="method#main#0;class#TotientFunction#0" />
+            <element signature="docComment;method#computeTotient#0;class#TotientFunction#0" />
+            <element signature="method#computeTotient#0;class#TotientFunction#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/pow_add_mul_sub_div_mod/Modular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

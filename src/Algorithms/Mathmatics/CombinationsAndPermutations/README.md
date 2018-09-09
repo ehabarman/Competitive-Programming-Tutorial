@@ -4,5 +4,5 @@ ___
 
 ## 1) Combinations:
 
-	-	calculate value of nCr(number of combination that we can create from set n with size of r). [ binomialCoeff ]
-	
+-	calculate value of nCr(number of combination that we can create from set n with size of r). [ nCrBinomialCoeff ]
+-   calculate value of nCr % p (using lucas little theorem). [ nCrModpLucas ]

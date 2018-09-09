@@ -15,11 +15,11 @@ public class Factorial {
 
 
     public static void main(String [] args){
-        Factorization.MAXN=101;
-        Factorization.sieve();
-        for (int i=1; i<100; i++)
-            if (isSphenic(i))
-                System.out.println(i);
+        int[] spf = new int[101];
+        Factorization.sieve(spf);
+        for (int i=1; i<=100; i++)
+            if (isSphenic(i,spf))
+                System.out.print(i+" ");
     }
 
 
@@ -56,11 +56,11 @@ public class Factorial {
      *  else use normal factorization
      *
      */
-    public static boolean isSphenic(int n){
+    public static boolean isSphenic(int n,int[] spf){
         Set<Integer> s = new HashSet<Integer>();
         while (n > 1)
         {
-            int lpf = Factorization.spf[n];
+            int lpf = spf[n];
             int init_size = s.size();
             s.add(lpf);
             if (s.size() == init_size || s.size() > 3)
