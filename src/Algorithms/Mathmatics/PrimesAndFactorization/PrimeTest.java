@@ -80,7 +80,7 @@ public class PrimeTest {
                 }
             }
         }
-        for (int i =0;i<=n;i++)
+        for (int i =2;i<=n;i++)
             if (!isPrime[i])
                 list.add(i);
         return list;

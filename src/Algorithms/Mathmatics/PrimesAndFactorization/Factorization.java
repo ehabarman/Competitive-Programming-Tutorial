@@ -148,6 +148,5 @@ public class Factorization {
         return res;
     }
 
-
 }
 
