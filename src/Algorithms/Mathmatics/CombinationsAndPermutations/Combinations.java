@@ -2,6 +2,8 @@ package Algorithms.Mathmatics.CombinationsAndPermutations;
 
 import Algorithms.Mathmatics.pow_add_mul_sub_div_mod.Power;
 
+import java.util.ArrayList;
+
 /**
  * @author ehab arman
  * @date 7-9-2018
@@ -58,14 +60,11 @@ public class Combinations {
      */
     public static int nCrModpLucas(int n, int r, int p)
     {
-        // Base case
+
         if (r==0)
             return 1;
-
-        // Compute last digits of n and r in base p
         int ni = n%p, ri = r%p;
         return (nCrModpLucas(n/p, r/p, p) * nCrModpDP(ni, ri, p)) % p;
     }
-
 
 }

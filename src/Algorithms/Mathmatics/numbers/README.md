@@ -9,7 +9,7 @@ ___
 -  **get value of catalan number n**. Catalan numbers are a sequence of natural numbers that occurs in many interesting [counting problems](https://www.geeksforgeeks.org/applications-of-catalan-numbers/). [ getCatalan ]
 -  **check if number is Smith Number**.Smith Number is a composite number whose sum of digits is equal to the sum of digits in its prime factorization. [isSmith]
 -  **get nth Fibonacci number**. Fibonacci number n is the nth number in Fibonacci sequence. [ getFibonacciValue ]
-
+-  **find bell number of set of size n**. Bell number is the number of possible partitions of set of size n. [ getBellValue ]
 
 
 

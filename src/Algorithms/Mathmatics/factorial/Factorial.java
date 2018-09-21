@@ -15,11 +15,15 @@ public class Factorial {
 
 
     public static void main(String [] args){
-        int[] spf = new int[101];
-        Factorization.sieve(spf);
-        for (int i=1; i<=100; i++)
-            if (isSphenic(i,spf))
-                System.out.print(i+" ");
+        System.out.println("long [] f = {");
+        long fact = 1;
+        for(int i = 1;i<100000;i++){
+            fact*=i;
+            System.out.print(fact+", ");
+
+            if(i%10==0)
+                System.out.println();
+        }
     }
 
 
