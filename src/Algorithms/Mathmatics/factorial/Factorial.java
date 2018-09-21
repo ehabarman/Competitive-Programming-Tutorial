@@ -14,6 +14,12 @@ import java.util.Set;
 public class Factorial {
 
 
+    /**
+     * Notes :
+     *          1- wilson's theorem states that:
+     *              [ p! % p ] = [(p-1)! % p ] = [ p - 1 ] if p is prime
+     *
+     */
     public static void main(String [] args){
         System.out.println("long [] f = {");
         long fact = 1;
@@ -73,7 +79,5 @@ public class Factorial {
         }
         return (s.size() == 3);
     }
-
-
 
 }
