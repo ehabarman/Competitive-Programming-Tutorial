@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a00e0ecb-79ba-412e-9e1e-bbc4816fbf6d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Dynamic/binomialCoeff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a00e0ecb-79ba-412e-9e1e-bbc4816fbf6d" name="Default" comment="23-9-2018">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Competitive-Programming-Tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Competitive-Programming-Tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Dynamic/binomialCoeff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Dynamic/BinomialCoeff.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,24 +26,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="2" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
+          <entry key="Markdown" value="1" />
           <entry key="Specification" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="1" />
           <entry key="java" value="113" />
-          <entry key="md" value="37" />
+          <entry key="md" value="123" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="113" />
+          <entry key="Markdown" value="86" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="Specification" value="37" />
         </counts>
       </usages-collector>
@@ -73,11 +75,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/binomialCoeff.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/BinomialCoeff.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -99,6 +113,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Algorithms/Dynamic.md" />
         <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/binomialCoeff.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" />
       </list>
     </option>
   </component>
@@ -157,7 +172,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537684739918" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537684822297" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hackerrank" />
   </component>
   <component name="RunDashboard">
@@ -205,6 +220,14 @@
       <option name="presentableId" value="Default" />
       <updated>1537681858787</updated>
     </task>
+    <task id="LOCAL-00001" summary="23-9-2018">
+      <created>1537684754030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537684754030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -239,6 +262,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23-9-2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="23-9-2018" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic.md">
@@ -276,10 +303,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/binomialCoeff.java">
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/BinomialCoeff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,7 @@ package Algorithms.Dynamic;
  * @author Ehab Arman
  * @Date 23-9-2018
  */
-public class binomialCoeff {
+public class BinomialCoeff {
 
     /**
      * dynamic solution to find nCr problem
