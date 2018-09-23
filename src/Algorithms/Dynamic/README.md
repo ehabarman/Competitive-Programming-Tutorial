@@ -5,3 +5,5 @@
 -   **Tiling Problem**. [**class TilingProblem**]
 -   **Coin Change Problem**. [**class CoinChange**]
 -   **Gold Mine Problem**. [**class GoldMine**]
+-   **Golomb sequence**. [**class GolombSequence**]
+-   **Newman-Conway Sequence**. [ **NewmanConwaySequence** ]
