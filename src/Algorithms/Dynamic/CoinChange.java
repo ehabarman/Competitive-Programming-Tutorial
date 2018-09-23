@@ -18,7 +18,7 @@ public class CoinChange {
      * So output should be 4. For N = 10 and S = {2, 5, 3, 6},
      * there are five solutions: {2,2,2,2,2}, {2,2,3,3}, {2,2,6}, {2,3,5} and {5,5}.
      * So the output should be 5.
-     * 
+     *
      */
 
     /**
@@ -27,7 +27,7 @@ public class CoinChange {
      * @param n total sum of money
      * @return  all possible changes
      */
-    public static int count( int S[], int n )
+    public static int countChanges( int S[], int n )
     {
         // table[i] will be storing the number of solutions for
         // value i. We need n+1 rows as the table is constructed
