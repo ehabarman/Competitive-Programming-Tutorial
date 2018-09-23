@@ -10,6 +10,23 @@
 -   **Cutting a Rod Problem**. [ **class CuttingRod** ]
 -   **Moser-de Bruijn Sequence**. [ **class MoserdeBruijnSequence** ]
 -   **Tiling with Dominoes Problem**. [ **class TilingDominoes** ]
+-   **Friends Pairing Problem**. [ **class FriendsPairing**]
+-   **Knapsack Problem**. [ **Knapsack** ]
+-   **Perfect Sum Problem**. [ **class PerfectSum** ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
