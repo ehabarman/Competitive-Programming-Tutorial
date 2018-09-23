@@ -14,8 +14,21 @@
 -   **Knapsack Problem**. [ **Knapsack** ]
 -   **Perfect Sum Problem**. [ **class PerfectSum** ]
 -   **Largest divisible pairs subset**. [ **class LargestDivisiblePairsSubset** ]
--
-
+-   **Subset with sum divisible by m**.[ **class SubsetWithSumDivisibleByM** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
+-   **  **. [ ** ** ]
 
 
 
