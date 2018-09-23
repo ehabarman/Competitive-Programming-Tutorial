@@ -13,7 +13,8 @@
 -   **Friends Pairing Problem**. [ **class FriendsPairing**]
 -   **Knapsack Problem**. [ **Knapsack** ]
 -   **Perfect Sum Problem**. [ **class PerfectSum** ]
-
+-   **Largest divisible pairs subset**. [ **class LargestDivisiblePairsSubset** ]
+-
 
 
 
