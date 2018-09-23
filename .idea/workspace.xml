@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a00e0ecb-79ba-412e-9e1e-bbc4816fbf6d" name="Default" comment="23-9-2018">
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Permutations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Dynamic/binomialCoeff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Dynamic/BinomialCoeff.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,13 +24,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
           <entry key="Markdown" value="1" />
           <entry key="Specification" value="1" />
         </counts>
@@ -39,14 +38,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="113" />
+          <entry key="java" value="266" />
           <entry key="md" value="123" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="113" />
+          <entry key="JAVA" value="266" />
           <entry key="Markdown" value="86" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Specification" value="37" />
@@ -57,16 +56,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-230">
@@ -75,21 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/BinomialCoeff.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Permutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="-49">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="51">
-                <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+                <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/Algorithms/Dynamic.md" />
         <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/binomialCoeff.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Permutations.java" />
       </list>
     </option>
   </component>
@@ -163,6 +153,14 @@
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="Mathmatics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Competitive-Programming-Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Competitive-Programming-Tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Mathmatics" type="462c0819:PsiDirectoryNode" />
+              <item name="CombinationsAndPermutations" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,7 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537684822297" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537685154689" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hackerrank" />
   </component>
   <component name="RunDashboard">
@@ -227,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537684754030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="23-9-2018">
+      <created>1537684832511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537684832511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -283,6 +288,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -296,13 +311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/BinomialCoeff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -310,13 +318,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
