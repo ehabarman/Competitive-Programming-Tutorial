@@ -2,6 +2,10 @@ package Algorithms.Dynamic;
 
 import java.util.Arrays;
 
+/**
+ * @author Ehab Arman
+ * @date 23-9-2018
+ */
 public class GoldMine {
 
     /**

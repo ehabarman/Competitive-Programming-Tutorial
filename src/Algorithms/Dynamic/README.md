@@ -6,4 +6,5 @@
 -   **Coin Change Problem**. [**class CoinChange**]
 -   **Gold Mine Problem**. [**class GoldMine**]
 -   **Golomb sequence**. [**class GolombSequence**]
--   **Newman-Conway Sequence**. [ **NewmanConwaySequence** ]
+-   **Newman-Conway Sequence**. [ **class NewmanConwaySequence** ]
+-   **Cutting a Rod Problem**. [ **class CuttingRod** ]
