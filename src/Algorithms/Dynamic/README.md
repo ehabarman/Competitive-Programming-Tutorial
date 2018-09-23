@@ -8,3 +8,4 @@
 -   **Golomb sequence**. [**class GolombSequence**]
 -   **Newman-Conway Sequence**. [ **class NewmanConwaySequence** ]
 -   **Cutting a Rod Problem**. [ **class CuttingRod** ]
+-   **Moser-de Bruijn Sequence**. [ **class MoserdeBruijnSequence** ]
