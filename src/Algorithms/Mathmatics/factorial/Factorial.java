@@ -18,6 +18,8 @@ public class Factorial {
      * Notes :
      *          1- wilson's theorem states that:
      *              [ p! % p ] = [(p-1)! % p ] = [ p - 1 ] if p is prime
+     *          [https://en.wikipedia.org/wiki/Wilson's_theorem#Applications]
+     *          [https://www.geeksforgeeks.org/wilsons-theorem/]
      *
      */
     public static void main(String [] args){

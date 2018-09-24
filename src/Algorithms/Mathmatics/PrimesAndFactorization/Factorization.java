@@ -10,12 +10,19 @@ import java.util.List;
 public class Factorization {
 
     /**
-     * for very large numbers use the following algorithm to calculate factorization
      *
-     * Less than 10^50: Lenstra elliptic curve factorization
-     * Less than 2^70 or so: Richard Brent's modification of Pollard's rho algorithm.
-     * Less than 10^100: Quadratic Sieve
-     * More than 10^100: General Number Field Sieve
+     *  notes:
+     *      1- Pollard’s Rho Algorithm for Prime Factorization, suitable to find factorization of a big number n
+     *      when all its factors are small primes
+     *      [https://www.geeksforgeeks.org/pollards-rho-algorithm-prime-factorization/]
+     *
+     *      2- for very large numbers use the following algorithm to calculate factorization
+     *          - Less than 10^50: Lenstra elliptic curve factorization
+     *          - Less than 2^70 or so: Richard Brent's modification of Pollard's rho algorithm.
+     *          - Less than 10^100: Quadratic Sieve
+     *          - More than 10^100: General Number Field Sieve
+     *
+     *
      *
      */
 

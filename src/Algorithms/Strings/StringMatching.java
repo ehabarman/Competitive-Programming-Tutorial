@@ -8,6 +8,12 @@ package Algorithms.Strings;
 
 public class StringMatching {
 
+    /**
+     * notes:
+     *      1- Z algorithm similar to KMP but simpler
+     *
+     *
+     */
     private static int NO_OF_CHARS = 256; // number of characters used in finite statesearch and boyer-moore algorithm
 
 
