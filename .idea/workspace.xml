@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a00e0ecb-79ba-412e-9e1e-bbc4816fbf6d" name="Default" comment="23-9-2018">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Miscellaneous/HeavyLightDecomposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Dynamic/NOfComparisionsInMergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/Miscellaneous/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Miscellaneous/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,29 +25,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="32" />
-          <entry key="md" value="6" />
+          <entry key="java" value="35" />
+          <entry key="md" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="32" />
-          <entry key="Markdown" value="5" />
+          <entry key="JAVA" value="35" />
+          <entry key="Markdown" value="6" />
           <entry key="Specification" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="5735" />
-          <entry key="md" value="1159" />
+          <entry key="java" value="7598" />
+          <entry key="md" value="1217" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5735" />
-          <entry key="Markdown" value="1122" />
+          <entry key="JAVA" value="7598" />
+          <entry key="Markdown" value="1180" />
           <entry key="PLAIN_TEXT" value="10" />
           <entry key="Specification" value="37" />
         </counts>
@@ -61,7 +61,19 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="85">
-                <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+                <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="204">
+                <caret line="18" column="93" selection-start-line="18" selection-start-column="93" selection-end-line="18" selection-end-column="93" />
               </first_editor>
               <second_editor />
             </state>
@@ -69,15 +81,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/Miscellaneous/HeavyLightDecomposition.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/NOfComparisionsInMergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="238">
+              <caret line="79" column="68" selection-start-line="79" selection-start-column="68" selection-end-line="79" selection-end-column="68" />
               <folding>
-                <element signature="method#LCA#0;class#HeavyLightDecomposition#0" />
-                <element signature="method#arraySet#0;class#HeavyLightDecomposition#0" />
-                <element signature="method#RMQUtil#0;class#HeavyLightDecomposition#0" />
-                <element signature="method#maxEdge#0;class#HeavyLightDecomposition#0" />
+                <element signature="e#3075#3076#0" expanded="true" />
+                <element signature="e#3114#3115#0" expanded="true" />
+                <element signature="e#3215#3216#0" expanded="true" />
+                <element signature="e#3287#3288#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,12 +138,13 @@
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/PrimesAndFactorization/Factorization.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Mathmatics/factorial/Factorial.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Strings/StringMatching.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" />
         <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/GameOptimalStrategy.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Miscellaneous/MoQueries.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Miscellaneous/LinkCutTrees.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Miscellaneous/README.md" />
         <option value="$PROJECT_DIR$/src/Algorithms/Miscellaneous/HeavyLightDecomposition.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Miscellaneous/README.md" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/README.md" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Dynamic/NOfComparisionsInMergeSort.java" />
       </list>
     </option>
   </component>
@@ -142,8 +155,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="496" />
-    <option name="y" value="89" />
+    <option name="x" value="87" />
+    <option name="y" value="369" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -178,7 +191,7 @@
               <item name="Competitive-Programming-Tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Miscellaneous" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,7 +202,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537781418327" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537860398240" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hackerrank" />
   </component>
   <component name="RunDashboard">
@@ -204,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeavyLightDecomposition">
+  <component name="RunManager" selected="Application.NOfComparisionsInMergeSort">
     <configuration name="HeavyLightDecomposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.Miscellaneous.HeavyLightDecomposition" />
       <module name="Competitive-Programming-Tutorial" />
@@ -247,6 +260,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NOfComparisionsInMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.Dynamic.NOfComparisionsInMergeSort" />
+      <module name="Competitive-Programming-Tutorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.Dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -271,9 +298,11 @@
       <item itemvalue="Application.LargestDivisiblePairsSubset" />
       <item itemvalue="Application.MoQueries" />
       <item itemvalue="Application.HeavyLightDecomposition" />
+      <item itemvalue="Application.NOfComparisionsInMergeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NOfComparisionsInMergeSort" />
         <item itemvalue="Application.HeavyLightDecomposition" />
         <item itemvalue="Application.MoQueries" />
         <item itemvalue="Application.LargestDivisiblePairsSubset" />
@@ -445,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537769740616</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="23-9-2018">
+      <created>1537781428789</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1537781428789</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -673,16 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="66" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="66" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Mathmatics/CombinationsAndPermutations/Combinations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-763">
@@ -726,16 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Miscellaneous/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Miscellaneous/HeavyLightDecomposition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -745,6 +761,50 @@
             <element signature="method#arraySet#0;class#HeavyLightDecomposition#0" />
             <element signature="method#RMQUtil#0;class#HeavyLightDecomposition#0" />
             <element signature="method#maxEdge#0;class#HeavyLightDecomposition#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Miscellaneous/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="18" column="93" selection-start-line="18" selection-start-column="93" selection-end-line="18" selection-end-column="93" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="291" column="25" selection-start-line="291" selection-start-column="25" selection-end-line="291" selection-end-column="25" />
+          <folding>
+            <element signature="e#11119#11120#0" expanded="true" />
+            <element signature="e#11200#11201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Dynamic/NOfComparisionsInMergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="79" column="68" selection-start-line="79" selection-start-column="68" selection-end-line="79" selection-end-column="68" />
+          <folding>
+            <element signature="e#3075#3076#0" expanded="true" />
+            <element signature="e#3114#3115#0" expanded="true" />
+            <element signature="e#3215#3216#0" expanded="true" />
+            <element signature="e#3287#3288#0" expanded="true" />
           </folding>
         </state>
       </provider>
