@@ -17,7 +17,7 @@ public class Power {
             return num;
         if (pow < 0)
             return 1/fastPower(num, -pow);
-        if (num%2 == 0){
+        if (pow%2 == 0){
             long temp = fastPower(num,pow/2);
             return temp * temp;
         }
